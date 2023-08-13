@@ -1,0 +1,2 @@
+# CNN-LSTM
+In this repo, a combination of Convolutional Neural Network (CNN) and Long Short-Term Memory (LSTM) is implemented for image classification. In this regard, first, a custom CNN model is trained and then the features of images are extracted using the trained CNN network and inputted to the LSTM network to classify the images. The used dataset is the MNIST dataset, which includes hand-written digits from 0-9 (10 classes).  
